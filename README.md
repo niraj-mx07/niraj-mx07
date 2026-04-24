@@ -1,4 +1,4 @@
-<h1 align="left">Hey 👋 Niraj Here...</h1>
+ <h1 align="left">Hey 👋 Niraj Here...</h1>
 
 <p align="center">
 <img src="assets/space-shooter.gif" />
