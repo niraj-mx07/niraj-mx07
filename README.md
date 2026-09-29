@@ -4,10 +4,15 @@
 <img src="assets/space-shooter.gif" />
 </p>
 
+## 🌐 Socials:
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/niraj-mahajan-36b7b332a) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nirajmahajan61452@gmail.com) 
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/niraj-mahajan-36b7b332a)
+&nbsp;&nbsp;&nbsp;&nbsp;
+[![X](https://img.shields.io/badge/X-000000.svg?logo=x&logoColor=white)](https://x.com/NirajMahajan_7)
+&nbsp;&nbsp;&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nirajmahajan61452@gmail.com)
 ## 🏆 Badges
 
 <div align="center">
@@ -20,7 +25,6 @@
 <img src="https://badges.layer5.io/assets/badges/certified-meshery-contributor/certified-meshery-contributor.png" width="200" alt="Certified Meshery Contributor">
 </a>
 
-<br><br>
 
 <b>Certified Meshery Contributor</b>
 
@@ -34,7 +38,6 @@
 <img src="https://badges.layer5.io/assets/badges/first-design/first-design.png" width="200" alt="First Design">
 </a>
 
-<br><br>
 
 <b>First Design</b>
 
